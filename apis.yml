@@ -38,10 +38,12 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/paramount/refs/heads/main/apis.yml
 created: '2026-04-28'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.paramount.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/paramount-domain-security.yml
   - type: GitHubOrganization
